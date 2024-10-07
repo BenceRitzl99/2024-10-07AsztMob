@@ -9,7 +9,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: Pink;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.MainController">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: aqua;" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.MainController">
    <children>
       <Polygon fill="#1f93ff00" layoutX="497.0" layoutY="258.0" points="-66.0, 40.0, 66.0, 40.0, 0.0, -60.0" stroke="BLACK" strokeType="INSIDE" />
       <Ellipse fill="#0979db" layoutX="497.0" layoutY="302.0" radiusX="66.0" radiusY="26.0" stroke="BLACK" strokeType="INSIDE" />
